@@ -47,3 +47,9 @@ The AWS solutions architect certification shows that you can use AWS services to
 [![Generic badge](https://img.shields.io/badge/Blog_Post-Medium-blue.svg)](https://t3chflicks.medium.com/aws-solutions-architect-quiz-6-iam-5d34116f3c73)
 
 [![Generic badge](https://img.shields.io/badge/Quiz-Google-red.svg)](https://docs.google.com/forms/d/e/1FAIpQLSe1ob9pRCxTwpzjJaQi0vYMqHHonJ8YVOvvq_4VQfm6Hqa0Pg/viewform?usp=sf_link)
+
+---
+
+This project was created by [T3chFlicks](https://t3chflicks.org) - A tech focused education and services company.
+
+---
