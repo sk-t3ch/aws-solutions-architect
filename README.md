@@ -7,7 +7,7 @@ The AWS solutions architect certification shows that you can use AWS services to
 
 ## `Tutorials`
 ## 1. VPC, Load Balancing, CloudWatch and AutoScaling
-[![Generic badge](https://img.shields.io/badge/Blog_Post-Github-orange.svg)](./blog_post.md)
+[![Generic badge](https://img.shields.io/badge/Blog_Post-Github-orange.svg)](./blog_posts/1.md)
 
 [![Generic badge](https://img.shields.io/badge/Blog_Post-Medium-blue.svg)](https://t3chflicks.medium.com/aws-solutions-architect-quiz-vpc-load-balancing-cloudwatch-autoscaling-aa3edee34d16)
 
