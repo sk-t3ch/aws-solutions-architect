@@ -3,6 +3,7 @@
 > A series of blog posts and quizzes for the AWS Solutions Architect Exam.
 ![thumbnail](./thumbnail.png)
 
+
 The AWS solutions architect certification shows that you can use AWS services to solve software engineering problems and understand core best practices of the industry.
 
 ## `Tutorials`
